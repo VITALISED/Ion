@@ -23,6 +23,8 @@ The `VANILLA` const has been stripped, and has been replaced with `NSIsVanilla()
 
 For mod developers, an `ION_VER` const has been declared if you'd like parity across forks. You'll also want to replace `Remote_RegisterFunction` with `NSRemote_RegisterFunction` to prevent out-of-sync disconnects.
 
+The B3, Wingman Eite and Softball, along with some other weapons will be extremely wonky on Northstar servers, nothing I can do about that unless the server you're on is also running Ion. SNS and some other modes probably wont work for Northstar players if you're hosting from Ion due to changes fixing this.
+
 ## Build
 You'll want to use the branch repositories, build steps should be basically the same as normal Northstar:
 * [Mods](https://github.com/VITALISED/NorthstarMods/tree/ion)
