@@ -16,7 +16,7 @@ They won't merge my Vanilla compatability PR :(
 If you're a Vanilla+ user, this is also an upgrade since this fixes match settings, pretty baller
 
 ## Parity
-Going forward, this project will keep versioning mostly in check with upstream Northstar, mod repositories will still be named Northstar.* so you can host
+Going forward, this project will keep versioning mostly in check with upstream Northstar, mods will still be named Northstar.* so you can host
 with Northstar players (Northstar.Custom being required and that).
 
 The `VANILLA` const has been stripped, and has been replaced with `NSIsVanilla()`. This may be reimplemented in the future but only to Client and Server VMs for compat depending on demand.
