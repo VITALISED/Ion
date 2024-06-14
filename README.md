@@ -21,7 +21,7 @@ with Northstar players (Northstar.Custom being required and that).
 
 The `VANILLA` const has been stripped, and has been replaced with `NSIsVanilla()`. This may be reimplemented in the future but only to Client and Server VMs for compat depending on demand.
 
-For mod developers, an `ION_VER` const has been declared if you'd like parity across forks.
+For mod developers, an `ION_VER` const has been declared if you'd like parity across forks. You'll also want to replace `Remote_RegisterFunction` with `NSRemote_RegisterFunction` to prevent out-of-sync disconnects.
 
 ## Build
 You'll want to use the branch repositories, build steps should be basically the same as normal Northstar:
