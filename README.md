@@ -9,6 +9,7 @@ Extended, vanilla compatible Northstar fork (that means you can play on Northsta
 * Some less crashes in places maybe
 * Vanilla compat whilst maintaining security hooks
 * Spruced up UI because it is very ugly (not done yet)
+* Lots of HUD things.
 
 ## Why
 They won't merge my Vanilla compatability PR :(
