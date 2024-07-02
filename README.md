@@ -2,6 +2,8 @@
 
 Extended, vanilla compatible Northstar fork (that means you can play on Northstar and Vanilla if you're wondering, revolutionary)
 
+It is also a cool kitchen sink of random things I like, they're mostly disabled by default but you can go check them out.
+
 ## Extras
 * Sort of EMM inspired menu
 * Some rudamentary Demo playback UI
